@@ -24,7 +24,7 @@ Assignment 3-the assignment let's us understand difference between Struct and Cl
    Updating CartItem quantities inside the ShoppingCart array required accessing items by index, because structs are value types. 
 
 
-**Assignment 5**
+## Assignment 5
 
 **Favorite Things Collection**:
 - Hydrangeas, Sunsets, Big Ben, Cinema, Kitty, Cosmetics, Strawberries, Mountains, Art, Books
