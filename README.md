@@ -22,3 +22,16 @@ Assignment 3-the assignment let's us understand difference between Struct and Cl
    ```
 5. **What challenges did you face and how did you solve them?**
    Updating CartItem quantities inside the ShoppingCart array required accessing items by index, because structs are value types. 
+
+
+**Assignment 5**
+
+**Favorite Things Collection**:
+- Hydrangeas, Sunsets, Big Ben, Cinema, Kitty, Cosmetics, Strawberries, Mountains, Art, Books
+
+## Devices Tested
+- iPhone SE (3rd generation)
+- iPhone 15 Pro Max
+
+ ## Known Limitations
+- Images may have slight quality variations due to different source sizes
